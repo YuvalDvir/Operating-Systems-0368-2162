@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yuvaldvir/CLionProjects/OS_Ex_1/os.h
+stdint.h
+-
+
+/Users/yuvaldvir/CLionProjects/OS_Ex_1/pt.c
+os.h
+/Users/yuvaldvir/CLionProjects/OS_Ex_1/os.h
+stdio.h
+-
+

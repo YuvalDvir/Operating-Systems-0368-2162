@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/OS_Ex_1.dir/os.c.o CMakeFiles/OS_Ex_1.dir/pt.c.o  -o OS_Ex_1 

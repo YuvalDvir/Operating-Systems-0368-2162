@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yuvaldvir/CLionProjects/OS_HW2/myshell.c
+stdio.h
+-
+sys/param.h
+-
+signal.h
+-
+string.h
+-
+zconf.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+errno.h
+-
+
