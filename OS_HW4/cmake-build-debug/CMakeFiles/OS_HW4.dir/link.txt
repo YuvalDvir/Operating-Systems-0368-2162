@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOS_HW4.a  CMakeFiles/OS_HW4.dir/library.c.o
+/usr/bin/ranlib libOS_HW4.a

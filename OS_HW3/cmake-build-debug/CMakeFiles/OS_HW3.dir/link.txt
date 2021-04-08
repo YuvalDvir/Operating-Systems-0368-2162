@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/OS_HW3.dir/message_slot.c.o CMakeFiles/OS_HW3.dir/message_sender.c.o CMakeFiles/OS_HW3.dir/message_reader.c.o  -o OS_HW3 
